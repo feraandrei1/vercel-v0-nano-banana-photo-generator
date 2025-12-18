@@ -4,6 +4,10 @@ A free, open-source AI image generator and editor powered by Google Gemini 2.5 F
 
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/templates/nano-banana-pro-playground-hkRpZoLOrJC)
 
+## Screenshot
+
+![Nano Banana Pro Screenshot](screenshot.png)
+
 ## Features
 
 - **Text-to-Image Generation**: Create images from natural language descriptions
